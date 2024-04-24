@@ -1,0 +1,9 @@
+torch==2.2.2
+torchinfo==1.8.0
+matplotlib==3.8.4
+torchvision==0.17.2
+pillow==10.3.0
+coremltools==7.1
+opencv-python==4.9.0.80
+pandas==2.2.2
+requests==2.31.0
